@@ -67,7 +67,7 @@ describe Book do
       end
 
       specify 'the first word' do
-        @book.title = "the man in the iron mask"
+        @book.title = "the man in The iron mask"
         expect(@book.title).to eq("The Man in the Iron Mask")
       end
     end
