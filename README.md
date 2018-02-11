@@ -1,3 +1,7 @@
+Project downloaded from TheOdinProject. Basic programming in Ruby + building Git habits
+
+
+==========
 Test First Ruby -- RSpec 3 Edition
 ==========
 
